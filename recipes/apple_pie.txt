@@ -12,3 +12,4 @@ Steps:
 1) Cut the apples
 2) Cook the pie
 3) Eat the pie
+4) Blog about it
